@@ -10,11 +10,10 @@ A collection of 4 AI/ML projects built during the **DecodeLabs Artificial Intell
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 1 | [Rule-Based AI Chatbot](./rule-based-ai-chatbot) | A simple rule-based chatbot with a knowledge-base dictionary, predefined intents, and fallback responses. | Python |
-| 2 | [AI Movie Recommender (TF-IDF)](./ai-movie-recommender-tfidf) | Recommends movies using TF-IDF vectorization and Cosine Similarity on genre/language features. CLI + Streamlit web app. | Python, Pandas, Scikit-learn, Streamlit |
-| 3 | [AI Image Text Recognition (OCR)](./ai-image-text-recognition-ocr) | OCR app that extracts text from images using EasyOCR, with confidence scores and a Streamlit interface. | Python, EasyOCR, OpenCV, Streamlit |
-| 4 | [Iris Flower Classifier (KNN)](./iris-flower-classifier-knn) | Classifies Iris flower species using the K-Nearest Neighbors algorithm, with full evaluation metrics. | Python, Scikit-learn, Jupyter |
-
+| 1 | [Rule-Based AI Chatbot](./Rule-Based%20AI%20Chatbot/) | A simple rule-based chatbot with a knowledge-base dictionary, predefined intents, and fallback responses. | Python |
+| 2 | [AI Movie Recommender (TF-IDF)](./AI%20Movie%20Recommender%20%28TF-IDF%29/) | Recommends movies using TF-IDF vectorization and Cosine Similarity on genre/language features. CLI + Streamlit web app. | Python, Pandas, Scikit-learn, Streamlit |
+| 3 | [AI Image Text Recognition (OCR)](./AI%20Image%20Text%20Recognition%20%28OCR%29/) | OCR app that extracts text from images using EasyOCR, with confidence scores and a Streamlit interface. | Python, EasyOCR, OpenCV, Streamlit |
+| 4 | [Iris Flower Classifier (KNN)](./Iris%20Flower%20Classifier%20%28KNN%29/) | Classifies Iris flower species using the K-Nearest Neighbors algorithm, with full evaluation metrics. | Python, Scikit-learn, Jupyter |
 ---
 
 ## Repository Structure
